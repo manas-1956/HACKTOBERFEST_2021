@@ -3,11 +3,10 @@
  - Place: Delhi, India
  - Bio: B.Tech Student
  - GitHub: [Sonichigo](https://github.com/sonichigo)
- <<<<<<< main
+#### Name: TrashPandit
 
-#### Name: ruandocini
-
- - Place: São Paulo, Brazil
- - Bio: USP Student
- - GitHub: [ruandocini](https://github.com/ruandocini)
+ - Place: Michigan, USA
+ - Bio: High school student studying computer programming
+ - GitHub: [TrashPandit](https://github.com/trashpandit)
 =======
+ <<<<<<< main
