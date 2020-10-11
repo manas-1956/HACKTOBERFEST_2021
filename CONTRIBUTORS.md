@@ -14,5 +14,11 @@
  - Place: NC, USA
  - Bio: Master's Student, NCSU
  - Github: [DevarshShah](https://github.com/devarshshah15)
+
+ #### Name: Vipul Jha
+
+ - Place: New Delhi,India
+ - Bio: BTECH, MSIT-New Delhi
+ - Github: [vipul1142](https://github.com/vipul1142)
 =======
  
