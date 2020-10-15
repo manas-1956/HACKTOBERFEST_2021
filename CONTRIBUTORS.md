@@ -20,5 +20,11 @@
  - Place: New Delhi,India
  - Bio: BTECH, MSIT-New Delhi
  - Github: [vipul1142](https://github.com/vipul1142)
+ 
+ #### Name: Ananya
+
+ - Place: Delhi, India
+ - Bio: B.Tech Student
+ - GitHub: [ananya-code](https://github.com/ananya-code)
 =======
  
