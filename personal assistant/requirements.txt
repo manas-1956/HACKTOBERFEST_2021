@@ -1,0 +1,4 @@
+SpeechRecognition
+datetime
+pyttsx3
+requests
