@@ -8,7 +8,7 @@
  - Place: Michigan, USA
  - Bio: High school student studying computer programming
  - GitHub: [TrashPandit](https://github.com/trashpandit)
- 
+
 #### Name: DevarshShah
 
  - Place: NC, USA
@@ -20,11 +20,16 @@
  - Place: New Delhi,India
  - Bio: BTECH, MSIT-New Delhi
  - Github: [vipul1142](https://github.com/vipul1142)
- 
+
  #### Name: Ananya
 
  - Place: Delhi, India
  - Bio: B.Tech Student
  - GitHub: [ananya-code](https://github.com/ananya-code)
+
+ #### Name: Deepak singh
+
+ - Place: Chandigarh, India
+ - Bio: B.E Student
+ - GitHub: [dark00infinity](https://github.com/dark00infinity)
 =======
- 
