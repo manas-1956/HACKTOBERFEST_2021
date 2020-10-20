@@ -32,4 +32,10 @@
  - Place: Chandigarh, India
  - Bio: B.E Student
  - GitHub: [dark00infinity](https://github.com/dark00infinity)
+ 
+ ### Name: Hritik Chaturvedi
+ 
+ - Place: Mumbai, India
+ - Bio: Btech(CSE) Student
+ - Github: [hritikchaturvedi11](https://github.com/hritikchaturvedi11)
 =======
