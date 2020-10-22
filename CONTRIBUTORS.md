@@ -38,4 +38,11 @@
  - Place: Mumbai, India
  - Bio: Btech(CSE) Student
  - Github: [hritikchaturvedi11](https://github.com/hritikchaturvedi11)
+ 
+ ### Name: Anamika Singh
+ 
+ - Place: Surat, India
+ - Bio: Btech(ECE) Student
+ - Github: [anamikasingh3](https://github.com/anamikasingh3)
+ 
 =======
