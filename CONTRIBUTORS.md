@@ -45,4 +45,11 @@
  - Bio: Btech(ECE) Student
  - Github: [anamikasingh3](https://github.com/anamikasingh3)
  
+  ### Name: Nikhil Wani
+ 
+ - Place: Mumbai, India
+ - Bio: CDAC Student
+ - Github: [Nikhil Wani](https://github.com/Nikhil-Wani)
+ 
+ 
 =======
