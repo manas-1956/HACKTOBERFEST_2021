@@ -45,4 +45,10 @@
  - Bio: Btech(ECE) Student
  - Github: [anamikasingh3](https://github.com/anamikasingh3)
  
+  ### Name: Sana Shah
+ 
+ - Place: Berlin, Germany
+ - Bio: Masters(CS) Student
+ - Github: [SanaaShah](https://github.com/SanaaShah)
+ 
 =======
