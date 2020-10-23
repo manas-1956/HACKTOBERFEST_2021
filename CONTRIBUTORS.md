@@ -51,5 +51,8 @@
  - Bio: CDAC Student
  - Github: [Nikhil Wani](https://github.com/Nikhil-Wani)
  
+  ### Name: Sana Shah
  
-=======
+ - Place: Berlin, Germany
+ - Bio: Masters(CS) Student
+ - Github: [SanaaShah](https://github.com/SanaaShah)
